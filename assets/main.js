@@ -234,7 +234,7 @@ function generateWhatsAppMessage(item, customer, quantity = 1) {
   const quantityText = quantity > 1 ? `${quantity} porsi` : '1 porsi';
   
   return `
-*PESANAN BARU - NyendolYuk!*
+*PESANAN BARU*
 ═══════════════════════════════════
 
 *Detail Pesanan:*
