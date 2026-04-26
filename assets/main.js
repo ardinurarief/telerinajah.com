@@ -505,7 +505,7 @@ if (orderForm) {
     const message = generateWhatsAppMessage(selectedMenuItem, formData, quantity);
     
     // Open WhatsApp
-    const phoneNumber = '6281366616094';
+    const phoneNumber = '628984425277';
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     
     // Open in new tab
